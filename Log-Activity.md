@@ -10,5 +10,5 @@ Log activity
 | 4  |      |        |      |                                  |                      |
 | 5  |      |        |      |                                  |                      |
 | 6  |   18/11/2026   |  AMIRAH HAZIRAH BINTI MOHD HAIRI      |   Research Definition of Creative Thinking   |    Google search - “Definition of Creative thinking"  |   Sternberg, R.J. (2026). Thought - Creative thinking | Britannica. [online] www.britannica.com. Available at: https://www.britannica.com/topic/thought/Creative-thinking [Accessed 18 Nov. 2026].  |
-| 7  |      |        |      |                                  |                      |
+| 7  |   18/11/2026   |    AMIRAH HAZIRAH BINTI MOHD HAIRI    |   Research HOTS in Data Engineering   |    Google search - “HOTS in Data Engineering"    |   GeeksforGeeks (2024). Top 10 data engineering trends. [online] GeeksforGeeks. Available at: https://www.geeksforgeeks.org/blogs/top-data-engineering-trends/ [Accessed 18 Nov. 2026].  |
 | 8  |      |        |      |                                  |                      |
