@@ -15,7 +15,7 @@
 4. 
 
 ## Assignment Report
-The final assignment report will be uploaded here.
+The final assignment report is uploaded here.
 
 ## Log Activity
-The group's research activities, AI prompts, individual contributions and GitHub activities will be documented here.
+The group's research activities, AI prompts, individual contributions and GitHub activities is documented here.
