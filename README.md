@@ -10,7 +10,7 @@
 
 ### Group Members
 1. Ellyza Yazmeen binti Khairul Fauzi
-2. 
+2. Amirah Hazirah binti Mohd Hairi
 3. 
 4. 
 
