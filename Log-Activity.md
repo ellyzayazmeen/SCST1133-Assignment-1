@@ -8,3 +8,7 @@ Log activity
 | 2  |      |        |      |                                  |                      |
 | 3  |      |        |      |                                  |                      |
 | 4  |      |        |      |                                  |                      |
+| 5  |      |        |      |                                  |                      |
+| 6  |   18/11/2026   |  AMIRAH HAZIRAH BINTI MOHD HAIRI      |   Research Definition of Creative Thinking   |    Google search - “Definition of Creative thinking"  |   Sternberg, R.J. (2026). Thought - Creative thinking | Britannica. [online] www.britannica.com. Available at: https://www.britannica.com/topic/thought/Creative-thinking [Accessed 18 Nov. 2026].  |
+| 7  |      |        |      |                                  |                      |
+| 8  |      |        |      |                                  |                      |
