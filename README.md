@@ -11,7 +11,7 @@
 ### Group Members
 1. Ellyza Yazmeen binti Khairul Fauzi
 2. Amirah Hazirah binti Mohd Hairi
-3. 
+3. Nurul Aisyah Fatini binti Abdul Samad
 4. 
 
 ## Assignment Report
